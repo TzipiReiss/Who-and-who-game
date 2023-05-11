@@ -1,0 +1,588 @@
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\משחק.dll.config
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\משחק.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\משחק.pdb
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\csc.exe.config
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\csc.rsp
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\csi.exe
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\csi.exe.config
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\csi.rsp
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Console.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Net.Http.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\vbc.exe.config
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\vbc.rsp
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\obj\Debug\משחק.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\obj\Debug\משחק.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\obj\Debug\משחק.csproj.CopyComplete
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\obj\Debug\משחק.dll
+C:\Users\user1\Desktop\עבודות\web\js\משחק\משחק\obj\Debug\משחק.pdb
+X:\תשפב\4\ראם רות\משחק\משחק\bin\משחק.dll.config
+X:\תשפב\4\ראם רות\משחק\משחק\bin\משחק.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\משחק.pdb
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\csc.exe
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\csc.exe.config
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\csc.rsp
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\csi.exe
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\csi.exe.config
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\csi.rsp
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\Microsoft.CSharp.Core.targets
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\Microsoft.Managed.Core.targets
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\Microsoft.VisualBasic.Core.targets
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\Microsoft.Win32.Primitives.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.AppContext.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Collections.Immutable.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Console.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Diagnostics.StackTrace.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Globalization.Calendars.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.IO.Compression.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.IO.Compression.ZipFile.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.IO.FileSystem.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.IO.FileSystem.Primitives.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Net.Http.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Net.Sockets.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Reflection.Metadata.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Security.Cryptography.Encoding.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Security.Cryptography.Primitives.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Text.Encoding.CodePages.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Threading.Tasks.Extensions.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.ValueTuple.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Xml.ReaderWriter.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Xml.XmlDocument.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Xml.XPath.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\System.Xml.XPath.XDocument.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\vbc.exe
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\vbc.exe.config
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\vbc.rsp
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\VBCSCompiler.exe
+X:\תשפב\4\ראם רות\משחק\משחק\bin\roslyn\VBCSCompiler.exe.config
+X:\תשפב\4\ראם רות\משחק\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+X:\תשפב\4\ראם רות\משחק\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+X:\תשפב\4\ראם רות\משחק\משחק\obj\Debug\משחק.csproj.CoreCompileInputs.cache
+X:\תשפב\4\ראם רות\משחק\משחק\obj\Debug\משחק.csproj.CopyComplete
+X:\תשפב\4\ראם רות\משחק\משחק\obj\Debug\משחק.dll
+X:\תשפב\4\ראם רות\משחק\משחק\obj\Debug\משחק.pdb
+E:\משחק\משחק\bin\משחק.dll.config
+E:\משחק\משחק\bin\משחק.dll
+E:\משחק\משחק\bin\משחק.pdb
+E:\משחק\משחק\bin\roslyn\csc.exe
+E:\משחק\משחק\bin\roslyn\csc.exe.config
+E:\משחק\משחק\bin\roslyn\csc.rsp
+E:\משחק\משחק\bin\roslyn\csi.exe
+E:\משחק\משחק\bin\roslyn\csi.exe.config
+E:\משחק\משחק\bin\roslyn\csi.rsp
+E:\משחק\משחק\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\משחק\משחק\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\משחק\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\משחק\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\משחק\משחק\bin\roslyn\Microsoft.Managed.Core.targets
+E:\משחק\משחק\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\משחק\משחק\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\משחק\משחק\bin\roslyn\System.AppContext.dll
+E:\משחק\משחק\bin\roslyn\System.Collections.Immutable.dll
+E:\משחק\משחק\bin\roslyn\System.Console.dll
+E:\משחק\משחק\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\משחק\משחק\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\משחק\משחק\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\משחק\משחק\bin\roslyn\System.Globalization.Calendars.dll
+E:\משחק\משחק\bin\roslyn\System.IO.Compression.dll
+E:\משחק\משחק\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\משחק\משחק\bin\roslyn\System.IO.FileSystem.dll
+E:\משחק\משחק\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\משחק\משחק\bin\roslyn\System.Net.Http.dll
+E:\משחק\משחק\bin\roslyn\System.Net.Sockets.dll
+E:\משחק\משחק\bin\roslyn\System.Reflection.Metadata.dll
+E:\משחק\משחק\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\משחק\משחק\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\משחק\משחק\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\משחק\משחק\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\משחק\משחק\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\משחק\משחק\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\משחק\משחק\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\משחק\משחק\bin\roslyn\System.ValueTuple.dll
+E:\משחק\משחק\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\משחק\משחק\bin\roslyn\System.Xml.XmlDocument.dll
+E:\משחק\משחק\bin\roslyn\System.Xml.XPath.dll
+E:\משחק\משחק\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\משחק\משחק\bin\roslyn\vbc.exe
+E:\משחק\משחק\bin\roslyn\vbc.exe.config
+E:\משחק\משחק\bin\roslyn\vbc.rsp
+E:\משחק\משחק\bin\roslyn\VBCSCompiler.exe
+E:\משחק\משחק\bin\roslyn\VBCSCompiler.exe.config
+E:\משחק\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\משחק\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\משחק\משחק\obj\Debug\משחק.csproj.AssemblyReference.cache
+E:\משחק\משחק\obj\Debug\משחק.csproj.CoreCompileInputs.cache
+E:\משחק\משחק\obj\Debug\משחק.csproj.CopyComplete
+E:\משחק\משחק\obj\Debug\משחק.dll
+E:\משחק\משחק\obj\Debug\משחק.pdb
+X:\תשפב\4\ראם רות\משחק\משחק\obj\Debug\משחק.csproj.AssemblyReference.cache
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\משחק.dll.config
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\משחק.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\משחק.pdb
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\csc.exe
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\csc.exe.config
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\csc.rsp
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\csi.exe
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\csi.exe.config
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\csi.rsp
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\Microsoft.CSharp.Core.targets
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\Microsoft.Managed.Core.targets
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\Microsoft.VisualBasic.Core.targets
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\Microsoft.Win32.Primitives.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.AppContext.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Collections.Immutable.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Console.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Diagnostics.StackTrace.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Globalization.Calendars.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.IO.Compression.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.IO.Compression.ZipFile.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.IO.FileSystem.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.IO.FileSystem.Primitives.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Net.Http.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Net.Sockets.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Reflection.Metadata.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Security.Cryptography.Encoding.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Security.Cryptography.Primitives.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Text.Encoding.CodePages.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Threading.Tasks.Extensions.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.ValueTuple.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Xml.ReaderWriter.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Xml.XmlDocument.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Xml.XPath.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\System.Xml.XPath.XDocument.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\vbc.exe
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\vbc.exe.config
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\vbc.rsp
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\VBCSCompiler.exe
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\roslyn\VBCSCompiler.exe.config
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+X:\תשפב\4\רייס צפורה\משחק\משחק\obj\Debug\משחק.csprojResolveAssemblyReference.cache
+X:\תשפב\4\רייס צפורה\משחק\משחק\obj\Debug\משחק.dll
+X:\תשפב\4\רייס צפורה\משחק\משחק\obj\Debug\משחק.pdb
+C:\Users\user1\Desktop\משחק\משחק\bin\משחק.dll.config
+C:\Users\user1\Desktop\משחק\משחק\bin\משחק.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\משחק.pdb
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\csc.exe.config
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\csc.rsp
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\csi.exe
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\csi.exe.config
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\csi.rsp
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Console.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Net.Http.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\vbc.exe.config
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\vbc.rsp
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\משחק\משחק\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\משחק\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\משחק\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\משחק\משחק\obj\Debug\משחק.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\משחק\משחק\obj\Debug\משחק.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\משחק\משחק\obj\Debug\משחק.csproj.CopyComplete
+C:\Users\user1\Desktop\משחק\משחק\obj\Debug\משחק.dll
+C:\Users\user1\Desktop\משחק\משחק\obj\Debug\משחק.pdb
+D:\Users\Desktop\משחק רותי\משחק\bin\משחק.dll.config
+D:\Users\Desktop\משחק רותי\משחק\bin\משחק.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\משחק.pdb
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\csc.exe
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\csc.exe.config
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\csc.rsp
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\csi.exe
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\csi.exe.config
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\csi.rsp
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.AppContext.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Console.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Globalization.Calendars.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.IO.Compression.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Net.Http.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Net.Sockets.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.ValueTuple.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Xml.XPath.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\vbc.exe
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\vbc.exe.config
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\vbc.rsp
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\VBCSCompiler.exe
+D:\Users\Desktop\משחק רותי\משחק\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\Desktop\משחק רותי\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\Desktop\משחק רותי\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\Desktop\משחק רותי\משחק\obj\Debug\משחק.csproj.AssemblyReference.cache
+D:\Users\Desktop\משחק רותי\משחק\obj\Debug\משחק.csproj.CoreCompileInputs.cache
+D:\Users\Desktop\משחק רותי\משחק\obj\Debug\משחק.csproj.CopyComplete
+D:\Users\Desktop\משחק רותי\משחק\obj\Debug\משחק.dll
+D:\Users\Desktop\משחק רותי\משחק\obj\Debug\משחק.pdb
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\משחק.dll.config
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\משחק.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\משחק.pdb
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\csc.exe
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\csc.exe.config
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\csc.rsp
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\csi.exe
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\csi.exe.config
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\csi.rsp
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\Microsoft.CSharp.Core.targets
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\Microsoft.Managed.Core.targets
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\Microsoft.VisualBasic.Core.targets
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\Microsoft.Win32.Primitives.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.AppContext.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Collections.Immutable.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Console.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Diagnostics.StackTrace.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Globalization.Calendars.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.IO.Compression.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.IO.Compression.ZipFile.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.IO.FileSystem.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.IO.FileSystem.Primitives.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Net.Http.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Net.Sockets.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Reflection.Metadata.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Security.Cryptography.Encoding.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Security.Cryptography.Primitives.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Text.Encoding.CodePages.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Threading.Tasks.Extensions.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.ValueTuple.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Xml.ReaderWriter.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Xml.XmlDocument.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Xml.XPath.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\System.Xml.XPath.XDocument.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\vbc.exe
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\vbc.exe.config
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\vbc.rsp
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\VBCSCompiler.exe
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\roslyn\VBCSCompiler.exe.config
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\obj\Debug\משחק.csproj.CoreCompileInputs.cache
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\obj\Debug\משחק.csproj.CopyComplete
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\obj\Debug\משחק.dll
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\obj\Debug\משחק.pdb
+E:\משחק רותי\משחק\bin\משחק.dll.config
+E:\משחק רותי\משחק\bin\משחק.dll
+E:\משחק רותי\משחק\bin\משחק.pdb
+E:\משחק רותי\משחק\bin\roslyn\csc.exe
+E:\משחק רותי\משחק\bin\roslyn\csc.exe.config
+E:\משחק רותי\משחק\bin\roslyn\csc.rsp
+E:\משחק רותי\משחק\bin\roslyn\csi.exe
+E:\משחק רותי\משחק\bin\roslyn\csi.exe.config
+E:\משחק רותי\משחק\bin\roslyn\csi.rsp
+E:\משחק רותי\משחק\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\משחק רותי\משחק\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\משחק רותי\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\משחק רותי\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\משחק רותי\משחק\bin\roslyn\Microsoft.Managed.Core.targets
+E:\משחק רותי\משחק\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\משחק רותי\משחק\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\משחק רותי\משחק\bin\roslyn\System.AppContext.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Collections.Immutable.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Console.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Globalization.Calendars.dll
+E:\משחק רותי\משחק\bin\roslyn\System.IO.Compression.dll
+E:\משחק רותי\משחק\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\משחק רותי\משחק\bin\roslyn\System.IO.FileSystem.dll
+E:\משחק רותי\משחק\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Net.Http.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Net.Sockets.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Reflection.Metadata.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\משחק רותי\משחק\bin\roslyn\System.ValueTuple.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Xml.XmlDocument.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Xml.XPath.dll
+E:\משחק רותי\משחק\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\משחק רותי\משחק\bin\roslyn\vbc.exe
+E:\משחק רותי\משחק\bin\roslyn\vbc.exe.config
+E:\משחק רותי\משחק\bin\roslyn\vbc.rsp
+E:\משחק רותי\משחק\bin\roslyn\VBCSCompiler.exe
+E:\משחק רותי\משחק\bin\roslyn\VBCSCompiler.exe.config
+E:\משחק רותי\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\משחק רותי\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\משחק רותי\משחק\obj\Debug\משחק.csproj.AssemblyReference.cache
+E:\משחק רותי\משחק\obj\Debug\משחק.csproj.CoreCompileInputs.cache
+E:\משחק רותי\משחק\obj\Debug\משחק.csproj.CopyComplete
+E:\משחק רותי\משחק\obj\Debug\משחק.dll
+E:\משחק רותי\משחק\obj\Debug\משחק.pdb
+X:\תשפב\4\רייס צפורה\משחק רותי\משחק\obj\Debug\משחק.csprojAssemblyReference.cache
+F:\משחק רותי\משחק\bin\משחק.dll.config
+F:\משחק רותי\משחק\bin\משחק.dll
+F:\משחק רותי\משחק\bin\משחק.pdb
+F:\משחק רותי\משחק\bin\roslyn\csc.exe
+F:\משחק רותי\משחק\bin\roslyn\csc.exe.config
+F:\משחק רותי\משחק\bin\roslyn\csc.rsp
+F:\משחק רותי\משחק\bin\roslyn\csi.exe
+F:\משחק רותי\משחק\bin\roslyn\csi.exe.config
+F:\משחק רותי\משחק\bin\roslyn\csi.rsp
+F:\משחק רותי\משחק\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\משחק רותי\משחק\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\משחק רותי\משחק\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\משחק רותי\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\משחק רותי\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\משחק רותי\משחק\bin\roslyn\Microsoft.Managed.Core.targets
+F:\משחק רותי\משחק\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\משחק רותי\משחק\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\משחק רותי\משחק\bin\roslyn\System.AppContext.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Collections.Immutable.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Console.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Globalization.Calendars.dll
+F:\משחק רותי\משחק\bin\roslyn\System.IO.Compression.dll
+F:\משחק רותי\משחק\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\משחק רותי\משחק\bin\roslyn\System.IO.FileSystem.dll
+F:\משחק רותי\משחק\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Net.Http.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Net.Sockets.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Reflection.Metadata.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\משחק רותי\משחק\bin\roslyn\System.ValueTuple.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Xml.XmlDocument.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Xml.XPath.dll
+F:\משחק רותי\משחק\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\משחק רותי\משחק\bin\roslyn\vbc.exe
+F:\משחק רותי\משחק\bin\roslyn\vbc.exe.config
+F:\משחק רותי\משחק\bin\roslyn\vbc.rsp
+F:\משחק רותי\משחק\bin\roslyn\VBCSCompiler.exe
+F:\משחק רותי\משחק\bin\roslyn\VBCSCompiler.exe.config
+F:\משחק רותי\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\משחק רותי\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\משחק רותי\משחק\obj\Debug\משחק.csprojAssemblyReference.cache
+F:\משחק רותי\משחק\obj\Debug\משחק.csproj.CoreCompileInputs.cache
+F:\משחק רותי\משחק\obj\Debug\משחק.csproj.CopyComplete
+F:\משחק רותי\משחק\obj\Debug\משחק.dll
+F:\משחק רותי\משחק\obj\Debug\משחק.pdb
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\משחק.dll.config
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\משחק.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\משחק.pdb
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\csc.exe
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\csc.exe.config
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\csc.rsp
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\csi.exe
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\csi.exe.config
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\csi.rsp
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\Microsoft.CodeAnalysis.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\Microsoft.CSharp.Core.targets
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\Microsoft.Managed.Core.targets
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\Microsoft.VisualBasic.Core.targets
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\Microsoft.Win32.Primitives.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.AppContext.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Collections.Immutable.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Console.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Diagnostics.StackTrace.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Globalization.Calendars.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.IO.Compression.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.IO.Compression.ZipFile.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.IO.FileSystem.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.IO.FileSystem.Primitives.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Net.Http.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Net.Sockets.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Reflection.Metadata.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Security.Cryptography.Encoding.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Security.Cryptography.Primitives.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Text.Encoding.CodePages.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Threading.Tasks.Extensions.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.ValueTuple.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Xml.ReaderWriter.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Xml.XmlDocument.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Xml.XPath.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\System.Xml.XPath.XDocument.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\vbc.exe
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\vbc.exe.config
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\vbc.rsp
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\VBCSCompiler.exe
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\roslyn\VBCSCompiler.exe.config
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\obj\Debug\משחק.csprojAssemblyReference.cache
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\obj\Debug\משחק.csproj.CoreCompileInputs.cache
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\obj\Debug\משחק.csproj.CopyComplete
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\obj\Debug\משחק.dll
+X:\תשפב\הגשות\הגשות ה4\JAVA SCRIPT פרויקט\רותי ראם וציפי רייס\משחק\obj\Debug\משחק.pdb
