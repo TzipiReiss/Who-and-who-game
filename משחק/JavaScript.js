@@ -6,6 +6,59 @@ function mainJS() {
     userForm();
 }
 
+
+//הוראות המשחק
+function HowToGame() {
+    const BGHowToGame = document.createElement("div");
+    BGHowToGame.setAttribute("id", "BGHowToGame");
+
+    const HowToGame = document.createElement("div");
+    HowToGame.setAttribute("id", "HowToGame");
+
+    const h3 = document.createElement("h3");
+    h3.innerHTML = "הוראות המשחק:";
+    h3.setAttribute("id", "h3HowToGame");
+
+    const p1 = document.createElement("p");
+    p1.innerHTML = "במשחק הנפלא, משחק 'מי ומי', עליך לגלות מיהו האדם הנבחר.";
+
+    const p2 = document.createElement("p");
+    p2.innerHTML = "כיצד מגלים?";
+
+    const p3 = document.createElement("p");
+    p3.innerHTML = "עליך לבחור בשאלות מתוך השאלות המוצגות לפניך, עפ''י הקטגוריה המתאימה לשאלה.";
+
+    const p4 = document.createElement("p");
+    p4.innerHTML = "לדוגמא בקטגוריה 'מין' ישנן 2 שאלות שביכלתך לשאול: 1.'האם אני בן?', 2.'האם אני בת?'.";
+
+    const p5 = document.createElement("p");
+    p5.innerHTML = "שים/י לב: מספר השאלות שביכולתך לשאול הינה מוגבלת!!";
+
+    const p6 = document.createElement("p");
+    p6.innerHTML = "אנא בחר/י את השאלות ברצינות ולאחר חשיבה מעמיקה.";
+
+    const close = document.createElement("input");
+    close.setAttribute("id", "closeHowToGame");
+    close.setAttribute("type", "button");
+    close.setAttribute("value", "x");
+    close.addEventListener("click", () => { BGHowToGame.style.display = "none"; });
+
+    HowToGame.appendChild(h3);
+    HowToGame.appendChild(p1);
+    HowToGame.appendChild(p2);
+    HowToGame.appendChild(p3);
+    HowToGame.appendChild(p4);
+    HowToGame.appendChild(p5);
+    HowToGame.appendChild(p6);
+    HowToGame.appendChild(close);
+
+    BGHowToGame.appendChild(HowToGame);
+    BGHowToGame.style.display = "none";
+
+    document.getElementById("body").appendChild(BGHowToGame);
+}
+
+//login
 function userForm() {
     const form = document.createElement("form");
     form.setAttribute("id", "form");
@@ -95,57 +148,6 @@ function userPlay() {
 
 }
 
-//הוראות המשחק
-function HowToGame() {
-    const BGHowToGame = document.createElement("div");
-    BGHowToGame.setAttribute("id", "BGHowToGame");
-
-    const HowToGame = document.createElement("div");
-    HowToGame.setAttribute("id", "HowToGame");
-
-    const h3 = document.createElement("h3");
-    h3.innerHTML = "הוראות המשחק:";
-    h3.setAttribute("id", "h3HowToGame");
-
-    const p1 = document.createElement("p");
-    p1.innerHTML = "במשחק הנפלא, משחק 'מי ומי', עליך לגלות מיהו האדם הנבחר.";
-
-    const p2 = document.createElement("p");
-    p2.innerHTML = "כיצד מגלים?";
-
-    const p3 = document.createElement("p");
-    p3.innerHTML = "עליך לבחור בשאלות מתוך השאלות המוצגות לפניך, עפ''י הקטגוריה המתאימה לשאלה.";
-
-    const p4 = document.createElement("p");
-    p4.innerHTML = "לדוגמא בקטגוריה 'מין' ישנן 2 שאלות שביכלתך לשאול: 1.'האם אני בן?', 2.'האם אני בת?'.";
-
-    const p5 = document.createElement("p");
-    p5.innerHTML = "שים/י לב: מספר השאלות שביכולתך לשאול הינה מוגבלת!!";
-
-    const p6 = document.createElement("p");
-    p6.innerHTML = "אנא בחר/י את השאלות ברצינות ולאחר חשיבה מעמיקה.";
-
-    const close = document.createElement("input");
-    close.setAttribute("id", "closeHowToGame");
-    close.setAttribute("type", "button");
-    close.setAttribute("value", "x");
-    close.addEventListener("click", () => { BGHowToGame.style.display = "none"; });
-
-    HowToGame.appendChild(h3);
-    HowToGame.appendChild(p1);
-    HowToGame.appendChild(p2);
-    HowToGame.appendChild(p3);
-    HowToGame.appendChild(p4);
-    HowToGame.appendChild(p5);
-    HowToGame.appendChild(p6);
-    HowToGame.appendChild(close);
-
-    BGHowToGame.appendChild(HowToGame);
-    BGHowToGame.style.display = "none";
-
-    document.getElementById("body").appendChild(BGHowToGame);
-}
-
 //בחירת רמה
 function chooseLevel() {
     const cLevel = document.createElement("form");
@@ -206,13 +208,12 @@ function clockOfGame() {
     func1();
 }
 var i = 0, x;
-function func2() {
-    document.getElementById('clock').value = ++i;
-}
 function func1() {
     x = setInterval("func2()", 1000);
 }
-
+function func2() {
+    document.getElementById('clock').value = ++i;
+}
 function func3() {
     clearInterval(x);
     i = 0;
